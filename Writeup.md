@@ -285,7 +285,7 @@ In matching2D_Student.cpp
 ```
 ### MP.6 Descriptor Distance Ratio
 Use the K-Nearest-Neighbor matching to implement the descriptor distance ratio test, which looks at the ratio of best vs. second-best match to decide whether to keep an associated pair of keypoints. </br>
-See above.
+- See above.
 ### MP.7 Performance Evaluation 1
 Count the number of keypoints on the preceding vehicle for all 10 images and take note of the distribution of their neighborhood size. Do this for all the detectors you have implemented. </br>
 
